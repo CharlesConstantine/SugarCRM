@@ -1,0 +1,6 @@
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'charles_dji'@'busypawsllc.com' (using password: YES) in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 278
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 307
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 313
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 254
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 132
+[23-Jun-2015 17:35:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/charles/SugarCRM/include/database/MysqliManager.php on line 132

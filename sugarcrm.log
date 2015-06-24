@@ -1,0 +1,6 @@
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL] Could not connect to DB server 192.232.249.2 as charles_dji. port : Access denied for user 'charles_dji'@'busypawsllc.com' (using password: YES)
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL] Could Not Connect: Database Is Not Connected
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+Tue Jun 23 17:35:57 2015 [5635][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
